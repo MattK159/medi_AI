@@ -31,7 +31,7 @@ protobuf==3.10.0
 py==1.8.0
 pyparsing==2.4.2
 pytest==4.6.6
-PyYAML==5.1.2
+PyYAML==5.4
 scandir==1.10.0
 scipy==1.2.2
 six==1.12.0
